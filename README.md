@@ -30,5 +30,8 @@ Libraries
 * fairlearn 0.8.0
 * lime · PyPI
 
+The process can be outlined with this figure below: ![alt text](http://ProcessOfAssessingDataset'sFairness.png)
+
+
 
 
