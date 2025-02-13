@@ -30,11 +30,8 @@ Libraries
 * fairlearn 0.8.0
 * lime · PyPI
 
-<<<<<<< HEAD
 The process can be outlined with this figure below: ![ProcessOfAssessingDataset'sFairness](https://github.com/arthakar/IdentifyingAreasOfBiasInDatasets/AssessingBiasFlowChart.png)
 =======
-The process can be outlined with this figure below: ![ProcessOfAssessingDatasetsFairness](https://github.com/arthakar/IdentifyingAreasOfBiasInDatasets/blob/main/visuals/ProcessOfAssessingDatasetsFairness.png)
->>>>>>> 78ddda95354e3c65d8766b5fd6a8e927c39124f0
 
 
 
