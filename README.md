@@ -30,8 +30,7 @@ Libraries
 * fairlearn 0.8.0
 * lime · PyPI
 
-The process can be outlined with this figure below: ![Asessing Bias Flowchart]([https://github.com/arthakar/IdentifyingAreasOfBiasInDatasets/AssessingBiasFlowChart.png](https://github.com/arthakar/IdentifyingAreasOfBiasInDatasets/blob/main/visuals/AssessingBiasFlowChart.png))
-=======
+The process can be outlined with this figure below: ![Asessing Bias Flowchart](https://github.com/arthakar/IdentifyingAreasOfBiasInDatasets/blob/main/visuals/AssessingBiasFlowChart.png)
 
 
 
