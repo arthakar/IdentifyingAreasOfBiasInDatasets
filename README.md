@@ -1,4 +1,4 @@
-# IdentifyingAreasOfBiasInDatasets
+# Identifying Areas Of Bias In Datasets
 The intent of this research is to explore different and potentially more intuitive methods of evaluating fairness of different datasets and the potential biases caused by certain features. 
 
 Objectives:
@@ -31,5 +31,7 @@ Libraries
 * lime · PyPI
 
 The process can be outlined with this figure below: ![ProcessOfAssessingDatasetsFairness](https://github.com/arthakar/IdentifyingAreasOfBiasInDatasets/blob/main/visuals/ProcessOfAssessingDatasetsFairness.png)
+
+
 
 
